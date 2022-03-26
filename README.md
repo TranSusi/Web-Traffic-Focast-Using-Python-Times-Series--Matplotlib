@@ -1,4 +1,6 @@
-# Web-Traffic-Focast-Using-Python-Times-Series--Matplotlib
+WEB TRAFFIC TIME SERIES FORECASTING 
+using Python, Matplotlib
+
 1. Motivation
 This is the self-extended exercise of SEO Analysis course from Udemy that I try to train models to predict possible problems of web traffic for big data (approximately 145,000 Wikipedia articles). It helps to provide an optimization solution for web traffic in the future.
 
